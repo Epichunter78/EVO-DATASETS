@@ -1,5 +1,5 @@
 # EVO-DATASETS
-This project is a set of graphs compiled from game and player data from the Evolution Championship Series from 1996-2019
+This project is a set of graphs compiled from game and player data from the Evolution Championship Series from 1996-2019. All data has been compiled by me into various datasets using data stored by trusted EVO sources.
 
 ## About EVO
 The Evolution Championship Series is a long-running fighting game tournament series that has been running since 1996
